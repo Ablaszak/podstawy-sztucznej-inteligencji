@@ -1,7 +1,7 @@
 # Spis treści
 
 * [Regresja liniowa](lab1/Readme.md)
-* [Lasy decyzyjne i boosting](lab2/Readme.md)
+* [Klasyfikacja i tabelaryczny ML](lab2/Readme.md)
 * [Sieci neuronowe](lab3/Readme.md)
 * [Detekcja obiektów](lab4/Readme.md)
 * [Przetwarzanie języka naturalnego](lab5/Readme.md)
